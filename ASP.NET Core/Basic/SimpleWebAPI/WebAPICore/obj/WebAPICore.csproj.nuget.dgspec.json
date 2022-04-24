@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sari-a\\Source\\repos\\SimpleWebAPI\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj": {}
+    "C:\\Users\\sari-a\\Desktop\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sari-a\\Source\\repos\\SimpleWebAPI\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj": {
+    "C:\\Users\\sari-a\\Desktop\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sari-a\\Source\\repos\\SimpleWebAPI\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj",
+        "projectUniqueName": "C:\\Users\\sari-a\\Desktop\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj",
         "projectName": "WebAPICore",
-        "projectPath": "C:\\Users\\sari-a\\Source\\repos\\SimpleWebAPI\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj",
+        "projectPath": "C:\\Users\\sari-a\\Desktop\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj",
         "packagesPath": "C:\\Users\\sari-a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sari-a\\Source\\repos\\SimpleWebAPI\\SimpleWebAPI\\WebAPICore\\obj\\",
+        "outputPath": "C:\\Users\\sari-a\\Desktop\\SimpleWebAPI\\WebAPICore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

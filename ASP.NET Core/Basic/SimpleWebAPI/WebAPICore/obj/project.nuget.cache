@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NlWtlMS1wfnvNGvazDrhz5qV0xpHgNgprH3+sYA1a29ZwRg8SgVVXeNozc02PhI8W5pb4ZAJrtJBMR1NRli0Uw==",
+  "dgSpecHash": "1tDeqimORzEznFKoa4wCWeUWm0WflMTfFsh4s7q3qnMvMVavvA636ufE7lxmBmPBGca+cb10orueaT0ZJ0UPNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sari-a\\Source\\repos\\SimpleWebAPI\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj",
+  "projectFilePath": "C:\\Users\\sari-a\\Desktop\\SimpleWebAPI\\WebAPICore\\WebAPICore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

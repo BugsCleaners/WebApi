@@ -6,5 +6,5 @@
 *  pip install fastapi[all]
 *  to validate the installation type uvicorn on cmd. (if command ran then you are good to go (uvicorn is webserver))
 
-## Simple HTTP Get Request
-* 
+## Basic
+* Simple HTTP Get Request

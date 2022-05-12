@@ -1,4 +1,4 @@
 
 # Run fastapi code 
 * Navigate to the directory contaning the downloaded main.py  
-* run the follwoing command using CMD `uvicorn main:app --reload`
+* Run the follwoing command using CMD `uvicorn main:app --reload`
